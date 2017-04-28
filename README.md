@@ -1,5 +1,4 @@
 # Static Site Boilerplate
-### By Aaron Robertson
 
 ## Includes
 - BrowserSync for live reload
