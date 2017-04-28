@@ -1,7 +1,7 @@
-#Static Site Boilerplate
-###By Aaron Robertson
+# Static Site Boilerplate
+### By Aaron Robertson
 
-##Includes
+## Includes
 - BrowserSync for live reload
 - SCSS compilation with gulp-sass
 - File bundling/minify/uglify
